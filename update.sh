@@ -1,6 +1,6 @@
 git checkout master
-git pull
-git pull
+git pull upstream master
+git pull upstream master
 git checkout sp-make
 git rebase master
 ./sounds_pre.sh
